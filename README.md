@@ -9,18 +9,22 @@ ________________________________________
 1️⃣ Data Sources
 •	Structured supply chain dataset (CSV/Excel)
 •	Supplier, Inventory, Logistics, and SKU-level transactional data
+
 2️⃣ Data Processing
 •	Excel for structured data extraction
 •	Excel for initial validation
 •	Power Query for preprocessing
 •	Power BI Power Query for transformation & modeling
+
 3️⃣ Data Modeling
 •	Star schema modeling approach
 •	Fact tables: Orders, Inventory, Manufacturing, Logistics
 •	Dimension tables: Supplier, SKU, Product Category, Transport Mode
 •	All in one Table Supply_Chain_Data.csv
 ________________________________________
+
 🧹 Data Cleaning & Transformation
+
 •	Validated and confirmed absence of missing values
 •	Removed duplicate records
 •	Standardized department-specific columns
