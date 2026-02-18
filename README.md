@@ -6,6 +6,7 @@ The solution transforms raw supply chain data into a structured analytical model
 ________________________________________
 
 🏗 Architecture & Data Workflow
+
 1️⃣ Data Sources
 •	Structured supply chain dataset (CSV/Excel)
 •	Supplier, Inventory, Logistics, and SKU-level transactional data
